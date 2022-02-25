@@ -1,0 +1,2017 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iter Carolinum being a succinct relation of the necessitated marches, retreats, and sufferings, of His Majesty Charls the I from January 10, 1641, till the time of his death 1648 / collected by a daily attendant upon His Sacred Majesty during all the said time.</title>
+            <author>Walker, Edward, Sir, 1612-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66926</idno>
+            <idno type="STC">Wing W339</idno>
+            <idno type="STC">ESTC R8148</idno>
+            <idno type="EEBO-CITATION">13104249</idno>
+            <idno type="OCLC">ocm 13104249</idno>
+            <idno type="VID">97454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97454)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 402:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iter Carolinum being a succinct relation of the necessitated marches, retreats, and sufferings, of His Majesty Charls the I from January 10, 1641, till the time of his death 1648 / collected by a daily attendant upon His Sacred Majesty during all the said time.</title>
+                  <author>Walker, Edward, Sir, 1612-1677.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: Thomas Manley.</note>
+                  <note>Attributed to Edward Walker. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97454:1"/>
+            <pb facs="tcp:97454:1"/>
+            <p>Iter Carolinum, BEING A Succinct RELATION OF The Neceſſitated <hi>Marches, Retreats,</hi> and <hi>Sufferings</hi> Of His MAJESTY CHARLS the I. From <hi>January</hi> 10. 1641. till the time of His Death 1648.</p>
+            <p>
+               <hi>Collected by a daily Attendant upon his Sacred Majeſty during all the ſaid time.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Godbid</hi> over againſt the <hi>Anchor</hi> Inne in <hi>Little Brittain.</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:97454:2"/>
+            <pb facs="tcp:97454:2"/>
+            <head>To the Loyall Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Do here preſent thee with a compendi<g ref="char:EOLhyphen"/>ous collection of thy late Soveraignes afflictions, which are many and un<g ref="char:EOLhyphen"/>parallell'd, in ſo much that I may truly ſay, (though therein contradi<g ref="char:EOLhyphen"/>ctory to the wiſe man, who ſaith, <hi>There is nothing new under the Sun)</hi> that there was no ſuch deed done or ſeen from the beginning of the world untill this day.</p>
+            <p>Look not hereon, I conjure thee; unleſs with tears, nay indeed how canſt thou? to ſee the King driven from place to place, affronted, neglected, deſpiſed, hungring, and thirſting, reviled, perſecuted and defamed. So that he might juſtly take up that of the Apoſtle, <hi>1 Cor. 4.9, 10. &amp;c.</hi> And indeed <hi>hinc fons ille lacrymarum;</hi> From this Fountain came all our future ſorrows: This, this, I ſay, was the cauſe of our ſucceeding miſeries, our ineſtimable loſs and almoſt inexpiable ruine; but <hi>pro<g ref="char:EOLhyphen"/>pitiatur Deus,</hi> ſo infinite is God in his mercy that he not onely can but will pardon, though his juſtice ſeverely denounceth this Sentence <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <hi>The ſoul that ſins ſhall die.</hi>
+            </p>
+            <pb facs="tcp:97454:3"/>
+            <p>But our preſent time ſpeaks better things. VVe have the pool of <hi>Betheſda,</hi> whereat many have lain groaning even deſpairing for help, and <hi>Now God hath ſent his Angel and moved the water, and the whole Na<g ref="char:EOLhyphen"/>tion by ſtepping in, are healed of the diſeaſe they too too long laboured under:</hi> O terque quaterque be<g ref="char:EOLhyphen"/>atus! <hi>Thrice happy he whoſe Loyal actings by Hea<g ref="char:EOLhyphen"/>ven have crowned been with ſuch a bleſt ſucceſs, that after times ſhall call him and confeſs he was his Countries Honor, and his Princes Shield.</hi> Pardon I pray, good Reader, this zealous digreſsion, and in the ſhort enſuing Tractate pleaſe to take notice that it begins at the <hi>10.</hi> of <hi>Jan. 1641.</hi> when his Majeſtie was forced by Tumults from <hi>White-hall,</hi> and is continued till his death after the manner of a <hi>Diary,</hi> pointing out his tra<g ref="char:EOLhyphen"/>vel from place to place, with their diſtances from each other; his abode therein &amp; entertainment, ſuccinctly with<g ref="char:EOLhyphen"/>al, yet myſtically relating the moſt remarkable paſſages and battails occurring in that time. I need ſay no more, but let it ſpeak for its ſelf; I ſuppoſe there are many who will remember much thereof; I know the Author my Father and Self were <hi>Teſtes oculati,</hi> ſpeaking onely what we had ſorrowfully ſeen and known. <hi>Oh that Po<g ref="char:EOLhyphen"/>ſterity may never know the like! but for ever reſt ſatisfied in their undoubted Soveraign, that his Ge<g ref="char:EOLhyphen"/>neration may never fail to ſway the</hi> Scepter in theſe Kingdomes, <hi>while the Sun and Moon endureth:</hi> Which is the cordial prayer of his Majeſties moſt faith<g ref="char:EOLhyphen"/>full Subject,</p>
+            <closer>
+               <signed>THOMAS MANLEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97454:3"/>
+            <div type="part">
+               <head>
+                  <hi>A Liſt of his Majeſties marches and Removes ſince his coming from</hi> London, <hi>on Monday the tenth of</hi> January, <hi>Anno Dom.</hi> 1641.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell cols="3">
+                           <hi>January,</hi> 1641.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights.</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>10. FRom <hi>White-Hall</hi> to <hi>Hamp<g ref="char:EOLhyphen"/>ton-Court</hi>
+                        </cell>
+                        <cell>ij</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>12. To <hi>Windſor</hi>
+                        </cell>
+                        <cell>xxviij</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>February.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>9. To <hi>Hampton-Court,</hi> riding ſome<g ref="char:EOLhyphen"/>what out of the way</cell>
+                        <cell>j</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>10. To <hi>Greenwich</hi>
+                        </cell>
+                        <cell>j</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>11. To <hi>Rocheſter</hi>
+                        </cell>
+                        <cell>j</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell>12. To <hi>Canterbury</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>xxij</cell>
+                     </row>
+                     <row>
+                        <cell>16. To <hi>Dover</hi>
+                        </cell>
+                        <cell>ix</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>25. The Queen went aboard to <hi>Holland</hi> in the Lyon.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <pb n="2" facs="tcp:97454:4"/>
+                     <row>
+                        <cell>25. To <hi>Canterbury</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>26. To <hi>Greenwich</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>xlii</cell>
+                     </row>
+                     <row>
+                        <cell>28. To <hi>Theobales</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>xvi</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>March.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3. To <hi>Royſton</hi>
+                        </cell>
+                        <cell>v</cell>
+                        <cell>xxi</cell>
+                     </row>
+                     <row>
+                        <cell>7. To <hi>New-market</hi>
+                        </cell>
+                        <cell>v</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell>14. To <hi>Huntington</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxiv</cell>
+                     </row>
+                     <row>
+                        <cell>15. To <hi>Stanford</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxi</cell>
+                     </row>
+                     <row>
+                        <cell>16. To <hi>Grantham</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xvi</cell>
+                     </row>
+                     <row>
+                        <cell>17. To <hi>Newarke</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>18. To <hi>Doncaſter</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxviii</cell>
+                     </row>
+                     <row>
+                        <cell>19. To <hi>York</hi>
+                        </cell>
+                        <cell>cx</cell>
+                        <cell>xxviii</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>July,</hi> 1642. <hi>Lincolne</hi> Journey.</cell>
+                     </row>
+                     <row>
+                        <cell>7. To <hi>Beverley</hi>
+                        </cell>
+                        <cell>v</cell>
+                        <cell>xxii</cell>
+                     </row>
+                     <row>
+                        <cell>12. To <hi>Doncaſter</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxviii</cell>
+                     </row>
+                     <row>
+                        <cell>13. To <hi>Newarke</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxviii</cell>
+                     </row>
+                     <row>
+                        <cell>14. To <hi>Lincolne</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>16. To <hi>Beverley</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>xlv</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>Leiceſter</hi> Journey.</cell>
+                     </row>
+                     <row>
+                        <cell>21. To <hi>Nottingham</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>lx</cell>
+                     </row>
+                     <row>
+                        <cell>22. To <hi>Leiceſter</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>xvi</cell>
+                     </row>
+                     <pb n="3" facs="tcp:97454:4"/>
+                     <row>
+                        <cell>26. to <hi>Doncaſter</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxxii</cell>
+                     </row>
+                     <row>
+                        <cell>7. to <hi>Beverley</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell>xxviii</cell>
+                     </row>
+                     <row>
+                        <cell>30. to <hi>York</hi>
+                        </cell>
+                        <cell>xvii</cell>
+                        <cell>xxii</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>Auguſt,</hi> 1642.</cell>
+                     </row>
+                     <row>
+                        <cell>16. to <hi>Nottingham,</hi> Earl of <hi>Clare</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>lv</cell>
+                     </row>
+                     <row>
+                        <cell>18. to <hi>Leiceſter</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xvi</cell>
+                     </row>
+                     <row>
+                        <cell>19. to <hi>Stonely</hi> Abbey Sir <hi>Tho. Lee</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell>23. to <hi>Nottingham</hi> Earl of <hi>Clare,</hi> where his Majeſty ſet up his Royal Standard</cell>
+                        <cell>xxi</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>September.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>13. to <hi>Darby</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>16. to <hi>Utoxeter</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17. to <hi>Stafford</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>19. to <hi>Wellington</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20. to <hi>Shrewsbury</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>23. to <hi>Weſtcheſter</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>xxviii</cell>
+                     </row>
+                     <row>
+                        <cell>27. to <hi>Shrewsbury</hi>
+                        </cell>
+                        <cell>xv</cell>
+                        <cell>xxviii</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>October.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>12. to <hi>Bridgenorth</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15. to <hi>Wolverhampton</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>17 to <hi>Bremichem Aſton,</hi> Sir <hi>Tho. Holts</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>18. to <hi>Packington,</hi> Sir <hi>Rob. Fiſhers</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <pb n="4" facs="tcp:97454:5"/>
+                     <row>
+                        <cell>19. To <hi>Killingworth</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>21. To <hi>Southam</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>22. To <hi>Edgcott</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>ix</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Edgehill</hi> Battell.</head>
+               <p>23. <hi>Octob.</hi> The great Battell at <hi>Edghill</hi> was ſtricken, the Earl of <hi>Lindſey</hi> General for his Ma<g ref="char:EOLhyphen"/>jeſty, who was kill'd in the Fleld; and his Maje<g ref="char:EOLhyphen"/>ſty, notwithſtanding the Treachery of his chiefe Gunner, the loſſe and retaking his Standard, with the death of Sir <hi>Edmund Verney,</hi> the over-eager purſuit of the Parliaments wing of Horſe, by Prince <hi>Rupert,</hi> (whoſe Soldiers too ſoon fell to Plunder) remained ſole Maſters of the Field, and the next day had the Plunder of the Field.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>26. To <hi>Aynow</hi> on the Hill</cell>
+                        <cell>iv</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>28. To <hi>Woodſtock</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>29. To <hi>Oxford</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>vi</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>November.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3. To <hi>Benſon</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>4. To <hi>Reading</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>8. To <hi>Maidenhead</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10. To <hi>Colebrook</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>12. To <hi>Hownſlow</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>v</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:97454:5"/>
+               <head>
+                  <hi>Brainford</hi> Fight.</head>
+               <p>After <hi>Edgehil</hi> battle, his Majeſtie having conti<g ref="char:EOLhyphen"/>nued his marching as aforeſaid towards <hi>London</hi> in the way at <hi>Brainford,</hi> fell upon ſome Forces of the Parliaments there, falling into their Quarters, and with much courage putting them to the worſt, till relieved by other Regiments lying near it, became a hot fight in the fields, lanes and ſtreets: His Ma<g ref="char:EOLhyphen"/>jeſties forces ſtill valiantly maintaining their ground they had at firſt got, untill by intelligence under<g ref="char:EOLhyphen"/>ſtanding the vaſt ſupplies both of horſe and foot that were coming out of <hi>London;</hi> ſinding it impoſ<g ref="char:EOLhyphen"/>ſible to be abſolute Victors, it was thought fit to retreat with honour and ſafetie, which they did, marching away through <hi>Kingſton</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>13. To <hi>Hampton</hi> Court</cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>14. To <hi>Oatlands</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>iv</cell>
+                     </row>
+                     <row>
+                        <cell>18. To <hi>Bagſhott</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <row>
+                        <cell>19. To <hi>Reading,</hi> which immediately upon the Kings receſs was ſurren<g ref="char:EOLhyphen"/>dred to the Earl of <hi>Eſſex</hi>
+                        </cell>
+                        <cell>ix</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>29. To <hi>VVallingford</hi> dinner, <hi>Oxford</hi> ſupper, and there during pleaſure</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:97454:6"/>
+               <head>
+                  <hi>November</hi> 1644. <hi>A Liſt of his Majeſties Marches from</hi> Ox<g ref="char:EOLhyphen"/>ford <hi>to</hi> Briſtol, Gloceſter <hi>Siege,</hi> &amp;c. <hi>Be<g ref="char:EOLhyphen"/>ginning the</hi> 1. <hi>of</hi> Auguſt 1643.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>1 FFrom <hi>Oxford</hi> to <hi>Farrindon</hi> dinner, to <hi>Malmesbury</hi> ſupper and bed</cell>
+                        <cell>j</cell>
+                        <cell>xij xvj</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>Briſtow</hi> taken by the King.</cell>
+                     </row>
+                     <row>
+                        <cell>2. To <hi>Briſtow</hi>
+                        </cell>
+                        <cell>vj</cell>
+                        <cell>xxij</cell>
+                     </row>
+                     <row>
+                        <cell>8. To <hi>Tedbury</hi> dinner, to <hi>Cirenceſter</hi> ſupper and bed, Sir <hi>William Ma<g ref="char:EOLhyphen"/>ſters</hi>
+                        </cell>
+                        <cell>j</cell>
+                        <cell>xx viij</cell>
+                     </row>
+                     <row>
+                        <cell>9. To <hi>Panſweek</hi>
+                        </cell>
+                        <cell>j</cell>
+                        <cell>xj</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>Gloceſter</hi> beſieged.</cell>
+                     </row>
+                     <row>
+                        <cell>10. To <hi>Macſeon,</hi> Mr. <hi>Selwins</hi> near <hi>Glo<g ref="char:EOLhyphen"/>ceſter</hi>
+                        </cell>
+                        <cell>xxvj</cell>
+                        <cell>iv</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>September.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>5. To <hi>Panſweek</hi>
+                        </cell>
+                        <cell>j</cell>
+                        <cell>iv</cell>
+                     </row>
+                     <row>
+                        <cell>6. To <hi>Bantley-Hill</hi> dinner, to <hi>Coverley</hi> ſupper and bed</cell>
+                        <cell>j</cell>
+                        <cell>viij</cell>
+                     </row>
+                     <row>
+                        <cell>7. Diner in the field, to <hi>Sudeley</hi> Caſtle ſupper and bed</cell>
+                        <cell>iv</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>11. Diner in the field, to <hi>Eviſholme</hi> ſupper and bed</cell>
+                        <cell>j</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>12. To <hi>Parſhall</hi>
+                        </cell>
+                        <cell>ij</cell>
+                        <cell>iv</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:97454:6"/>
+               <head>The <hi>Earl</hi> of <hi>Eſſex</hi> approaching with his <hi>Army,</hi> the <hi>King</hi> raiſed his Siege from <hi>Gloceſter,</hi> and marched—</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>14. To <hi>Eviſham</hi>
+                        </cell>
+                        <cell>ij</cell>
+                        <cell>iv</cell>
+                     </row>
+                     <row>
+                        <cell>16. To <hi>Snowes</hi> hill</cell>
+                        <cell>j</cell>
+                        <cell>vj</cell>
+                     </row>
+                     <row>
+                        <cell>17. To <hi>Norlich,</hi> dinner, <hi>Alſcoc</hi> ſupper</cell>
+                        <cell>j</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>18. To <hi>Faringdon</hi> dinner, to <hi>VVantage</hi> Sir <hi>George Wilmots</hi> ſupper and bed</cell>
+                        <cell>j</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>19. Diner in the field <hi>Newbery,</hi> to ſupper and bed Mr. <hi>Coxes,</hi> and on Wedneſday the 20. the great battle was ſtruck there</cell>
+                        <cell>iv</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>23. To <hi>Oxford</hi>—during pleaſure</cell>
+                        <cell> </cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>April</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell>9. From <hi>Oxford</hi> to <hi>Childrey</hi> the Lady <hi>Fetiplace</hi>
+                        </cell>
+                        <cell>j</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>10. To <hi>Marlingborow</hi> the Lord <hi>Seymers</hi>
+                        </cell>
+                        <cell>j</cell>
+                        <cell>xiij</cell>
+                     </row>
+                     <row>
+                        <cell>11. To <hi>VVantage</hi> diner, to <hi>Oxford</hi> ſup<g ref="char:EOLhyphen"/>per and bed—during pleaſure</cell>
+                        <cell>xv</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>May</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell>16. To <hi>Coley</hi> near <hi>Reading</hi>
+                        </cell>
+                        <cell>ij</cell>
+                        <cell>xxij</cell>
+                     </row>
+                     <row>
+                        <cell>18. Diner to <hi>Compton, Oxford</hi> ſupper and bed—during pleaſure</cell>
+                        <cell>xij</cell>
+                        <cell>xiij</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:97454:7"/>
+               <head>
+                  <hi>A Liſt of his Majeſties March with his Ar<g ref="char:EOLhyphen"/>mies towards the</hi> Weſt, <hi>&amp;c. Beginning on</hi> Sonday <hi>the</hi> 2. <hi>of</hi> June, <hi>An. Dom.</hi> 1644.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell cols="3">
+                           <hi>June</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>SUnday the 2. day, in the after<g ref="char:EOLhyphen"/>noon we went from <hi>Oxford,</hi> to <hi>Woodſtock,</hi> and returned back that night on Monday morning the 3. day about 6. a clock his Majeſty came back again to <hi>Oxford</hi>
+                        </cell>
+                        <cell>j</cell>
+                        <cell>vj</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 3. day, and Tueſday the 4. About 9. a clock at night his Ma<g ref="char:EOLhyphen"/>jeſty marched again to <hi>Woodſtock</hi> ward, but left it on the right hand; to <hi>Burford</hi> to ſupper; the 4. day, and that night lodged at <hi>Burton</hi> on on the water at Doctor <hi>Temples</hi>
+                        </cell>
+                        <cell>ij</cell>
+                        <cell>xviij</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 5. to <hi>Eviſham,</hi> Mr. Alderman <hi>Martins</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xv</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 6. to <hi>Worceſter</hi> the Bi<g ref="char:EOLhyphen"/>ſhops Pallace</cell>
+                        <cell>vi</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <pb n="9" facs="tcp:97454:7"/>
+                     <row>
+                        <cell>Tueſday the 12. to <hi>Bewdley,</hi> Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Littletons</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 15. to <hi>VVorceſter</hi> again, the Biſhops Pallace</cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Sunday the 16. to <hi>Bradway,</hi> Miſtris <hi>Savages</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xvii</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 17. to <hi>Burford,</hi> the <hi>George</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 18. to <hi>Witney,</hi> the <hi>white Hart</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell>vi</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 21. to <hi>Blechenton,</hi> Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Coghils</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 22. to <hi>Buckingham,</hi> Sir <hi>Thomas Richardſons</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 26. to <hi>Brackley</hi> the Colledge there</cell>
+                        <cell>i</cell>
+                        <cell>ii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 27. to <hi>Culworth,</hi> Sir <hi>Sa<g ref="char:EOLhyphen"/>muel Danvers</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 28. to <hi>Grymsbury,</hi> a Yeo<g ref="char:EOLhyphen"/>mans houſe</cell>
+                        <cell>i</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 29. to <hi>Williamſcot,</hi> a very poor mans houſe</cell>
+                        <cell>ii</cell>
+                        <cell>iv</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>July</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 1. to <hi>Dedington,</hi> the Par<g ref="char:EOLhyphen"/>ſonage</cell>
+                        <cell>i</cell>
+                        <cell>ii</cell>
+                     </row>
+                     <pb n="10" facs="tcp:97454:8"/>
+                     <row>
+                        <cell>Tueſday the 2. to <hi>Morton Hinmarch,</hi> the <hi>white Hart</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 3. to <hi>Eviſham,</hi> Alder<g ref="char:EOLhyphen"/>man <hi>Martins</hi>
+                        </cell>
+                        <cell>ix</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 12. to <hi>Coverley</hi> the <hi>E.</hi> of <hi>Downes,</hi> by <hi>Bradway</hi> and <hi>Sudeley</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xvi</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 13. to <hi>Sapperton,</hi> Sir <hi>Henry Pooles</hi> near <hi>Cirenceſter</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <row>
+                        <cell>Sunday the 14. to <hi>Bodmyngton,</hi> the Lo. <hi>Herbets</hi> of <hi>Ragland</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 15. to <hi>Bath,</hi> Sir <hi>Thomas Bridges</hi> the Governors</cell>
+                        <cell>ii</cell>
+                        <cell>xi</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 17. to <hi>Mells,</hi> ſir <hi>John Horners</hi> the Kings by attainder</cell>
+                        <cell>ii</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 19. to <hi>Bruton,</hi> ſir <hi>Charles Bartleys</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 20. to <hi>Ilcheſter,</hi> Maſter <hi>Dawes</hi> houſe</cell>
+                        <cell>iv</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 24. to <hi>Charde,</hi> Maſter <hi>Barcrofts</hi> a Merchant of <hi>London</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 25. to <hi>Hunington,</hi> Do<g ref="char:EOLhyphen"/>ctor <hi>Marwoods</hi> a Phiſitian</cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 26. to <hi>Exceſter Bedford houſ,</hi> ſir <hi>John Partleys</hi> the Governour</cell>
+                        <cell>i</cell>
+                        <cell>xv</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 27. to <hi>Crediton</hi> diner; to <hi>Bradinch,</hi> Mr. <hi>Seuters</hi> ſupper</cell>
+                        <cell>i</cell>
+                        <cell>xvi</cell>
+                     </row>
+                     <row>
+                        <cell>Sunday the 28. to <hi>Crediton,</hi> Maſter <hi>Tuckers</hi> houſe</cell>
+                        <cell>i</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <pb n="11" facs="tcp:97454:8"/>
+                     <row>
+                        <cell>Monday the 29. to <hi>Bow,</hi> Mr. <hi>Philips</hi> a mean quarter</cell>
+                        <cell>i</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 30. to <hi>Oachampton,</hi> at Mr. <hi>Rotenburies</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the laſt, to <hi>Lifton</hi> the Parſonage houſe</cell>
+                        <cell>i</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>Auguſt</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the firſt, to <hi>Trecarroll</hi> Mr. <hi>Maningtons</hi> houſe in <hi>Cornwall</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>ix</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 2. to <hi>Liskerd</hi> Mr. <hi>Jeane</hi> a Commiſſioners houſe</cell>
+                        <cell>vi</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 8. to <hi>Boconnock</hi> the Lord <hi>Mohuns,</hi> but called from thence to make ready at Mr. <hi>Glins</hi> of <hi>Glinford,</hi> affrighted from thence by the <hi>Mili<g ref="char:EOLhyphen"/>tia,</hi> his Majeſtie lay in the field all night in his Coach on <hi>Boconnock</hi> Downe a Heathy place</cell>
+                        <cell>i</cell>
+                        <cell>v</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 9. to <hi>Boconnock</hi> again, where his Majeſty quartered</cell>
+                        <cell>xxi</cell>
+                        <cell>v</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the laſt day, to <hi>Leſtithiall,</hi> thence toward <hi>Foy,</hi> his Majeſty lay in the field his meat and drink dreſt at M. <hi>Hixts,</hi> the <hi>Militia</hi> diſarmed, <hi>E.</hi> fled the field, the Articles confirmd.</cell>
+                        <cell>ii</cell>
+                        <cell>v</cell>
+                     </row>
+                     <pb n="12" facs="tcp:97454:9"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>And here his Majeſties Clemency was moſt Eminent, when having all the Infantry at his mercy, he not onely pardoned the Souldiers in general, but admitted the chief Officers to kiſs his hand, onely refuſed that fa<g ref="char:EOLhyphen"/>vour to M. G. <hi>Skippon,</hi> as being too great an enemy to his Majeſties Ho<g ref="char:EOLhyphen"/>nour and ſafety.</cell>
+                        <cell>ii</cell>
+                        <cell>v</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>September</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 2. to <hi>Boconnock</hi> the Lord <hi>Mohuns</hi> again</cell>
+                        <cell>ii</cell>
+                        <cell>v</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 4. to <hi>Liskerd</hi> Maſter <hi>Jeanes</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 5. to <hi>Taviſtock,</hi> the La<g ref="char:EOLhyphen"/>dy <hi>Glanvils</hi>
+                        </cell>
+                        <cell>v</cell>
+                        <cell>xv</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 10. to <hi>Widey</hi> near <hi>Ply<g ref="char:EOLhyphen"/>mouth,</hi> yeoman <hi>Heales</hi> houſe</cell>
+                        <cell>iv</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday 14. to <hi>Taviſtock,</hi> the Lady <hi>Glanvils</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 16. to <hi>Oakchampton,</hi> Mr. <hi>Rottenburies</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <pb n="13" facs="tcp:97454:9"/>
+                     <row>
+                        <cell>Tueſday the 17. to <hi>Exceſter, Bed<g ref="char:EOLhyphen"/>ford</hi> houſe the Governours, at <hi>Cre<g ref="char:EOLhyphen"/>diton</hi>
+                        </cell>
+                        <cell>vi</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 23. to <hi>Chard,</hi> Mr. <hi>Barcrofts</hi> at <hi>Honiton</hi> dinner</cell>
+                        <cell>vii</cell>
+                        <cell>xxvii</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the laſt day to <hi>South Parrat,</hi> Mr. <hi>Gibs</hi> dinner in the field</cell>
+                        <cell>i</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>October</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 1. to <hi>Mayden Newton,</hi> Mr. <hi>Osbornes</hi> dinner in the field</cell>
+                        <cell>i</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 2. to <hi>Sherborn</hi> lodge the Lord <hi>Digbies</hi> dinner in the field</cell>
+                        <cell>vi</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 8. to <hi>Stalbridge</hi> the <hi>E.</hi> of <hi>Corks</hi> dined there</cell>
+                        <cell>i</cell>
+                        <cell>v</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 9. to <hi>Stirmiſter New<g ref="char:EOLhyphen"/>ton,</hi> Mr. <hi>Reeves</hi> dinner in the field</cell>
+                        <cell>i</cell>
+                        <cell>iii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 10. to <hi>Brianſtone</hi> near <hi>Blanford,</hi> Mrs. <hi>Rogers</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 14. to <hi>Cranborn</hi> lodge the E. of <hi>Salisburies,</hi> dinner in the field</cell>
+                        <cell>i</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 15. to <hi>Salisbury,</hi> D. <hi>Sadlers</hi> Chancelor, dinner in a little Lodge</cell>
+                        <cell>iii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 18. to <hi>Andiver,</hi> the <hi>White Hart,</hi> dinner in the field</cell>
+                        <cell>i</cell>
+                        <cell>xv</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 19. to <hi>Whitchurch,</hi> Mr. <hi>Brookes</hi> dinner in the field</cell>
+                        <cell>ii</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <pb n="14" facs="tcp:97454:10"/>
+                     <row>
+                        <cell>Monday the 21. to <hi>Kings Cleer,</hi> Mr. <hi>Towers</hi> dinner at <hi>VVhitchurch</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>v</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>Yet his <hi>Majeſties</hi> March from the <hi>Weſt</hi> in <hi>October.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell cols="3">
+                           <hi>October</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 22. to <hi>New-bury,</hi> Maſter <hi>Dunce,</hi> dinner at <hi>Kings Cleer</hi>
+                        </cell>
+                        <cell>v.</cell>
+                        <cell>vi</cell>
+                     </row>
+                     <row>
+                        <cell>Sunday the 7. a great and ſecond bat<g ref="char:EOLhyphen"/>tel betwixt his Majeſties Army, and the Parliaments, by the ſame hands his Majeſtie had diſarm'd and ſhown mercy to at <hi>Leſtichiel,</hi> wherein his Majeſtie had much the better of the day, &amp; yet was adviſed to deſert the field, whereby—<hi>&amp;c.</hi> His Maje<g ref="char:EOLhyphen"/>ſtie marched to meet Prince <hi>Rupert</hi> at Bathe, Prince <hi>Maurice,</hi> General <hi>Goring,</hi> and moſt of his Majeſties houſhold about 9. a clock that Sun<g ref="char:EOLhyphen"/>day night marched from <hi>Denyngton</hi> Caſtle to <hi>VVallingford,</hi> and the next day Monday the 28. came all to <hi>Oxford,</hi> waiting for his Majeſtie</cell>
+                        <cell>i</cell>
+                        <cell>xxv</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:97454:10"/>
+               <head>
+                  <hi>His Majeſties remarch from</hi> Bath <hi>to</hi> Oxford.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 27. from <hi>Denington</hi> Caſtle marching all night, and on Monday the 28. came to <hi>Bath,</hi> and there</cell>
+                        <cell>ii</cell>
+                        <cell>l</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 30. to <hi>Churchſton</hi> a widowes houſe</cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday laſt, to <hi>Cirenceſter,</hi> Sir <hi>VVil<g ref="char:EOLhyphen"/>liam Maſters</hi> Baronet</cell>
+                        <cell>i</cell>
+                        <cell>xxvi</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>November</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Friday the firſt, to <hi>Oxford</hi> ſupper, and there during pleaſure.</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>A Liſt of his Majeſties Marches from</hi> Ox<g ref="char:EOLhyphen"/>ford <hi>towards</hi> Denyngton <hi>Caſtle, both to relieve it, and to draw off the Ordinance left there the</hi> 27. <hi>of</hi> October <hi>before.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 6. to <hi>Bullington</hi> green the Randes vouz dinner, <hi>Oxford</hi> ſupper, where P. R. was declared General with great acclamation</cell>
+                        <cell>ii</cell>
+                        <cell>i</cell>
+                     </row>
+                     <pb n="16" facs="tcp:97454:11"/>
+                     <row>
+                        <cell>Thurſday the 7. to <hi>VVallingford</hi> Col<g ref="char:EOLhyphen"/>lonel <hi>Blagues</hi> the Governour—</cell>
+                        <cell>xii</cell>
+                        <cell>i</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 8. to Weſt <hi>Illeſley</hi> the Biſhop of <hi>Gloceſter in comendum</hi>—</cell>
+                        <cell>viii</cell>
+                        <cell>i</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 9. to <hi>Denington</hi> Caſtle where was a great skirmiſh with the Parliamentires in <hi>Newbury</hi> field, whence we retreat <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> lay on the Caſtle all night—</cell>
+                        <cell>viii</cell>
+                        <cell>i</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>November.</hi> 1644.</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 10. to <hi>Lamborn</hi> Mr. <hi>Gar<g ref="char:EOLhyphen"/>rets</hi>—</cell>
+                        <cell>viii</cell>
+                        <cell>ii</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 12. to <hi>Marlingborough</hi> the Lord <hi>Seymers</hi>—</cell>
+                        <cell>viii</cell>
+                        <cell>v</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 17. to <hi>Hungerford</hi> the Bear—</cell>
+                        <cell>viii</cell>
+                        <cell>ii</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 19. to <hi>Shelford,</hi> Maſter <hi>Brownes,</hi> The Kings birth-day—</cell>
+                        <cell>vi</cell>
+                        <cell>ii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 21. to <hi>Charlton</hi> near <hi>VVantage,</hi> Sir <hi>George VVilmot</hi>—</cell>
+                        <cell>vi</cell>
+                        <cell>i</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 22. to <hi>Farington,</hi> Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Pyes</hi>—</cell>
+                        <cell>vii</cell>
+                        <cell>ii</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 23. to <hi>Oxford</hi> dinner, and there during pleaſure—</cell>
+                        <cell>xiv</cell>
+                        <cell>all</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:97454:11"/>
+               <head>Anno xxi. Regis Caroli, <hi>May.</hi>
+               </head>
+               <head type="sub">
+                  <hi>A Liſt of his Majeſties ſeveral Marches, be<g ref="char:EOLhyphen"/>ginning upon Wedneſday the</hi> vij. <hi>of May,</hi> Anno Dom. 1645.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>WEdneſday the 7. From <hi>Oxford Woodſtock</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>vi</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 8. to <hi>Stow</hi> ith wole, Ma<g ref="char:EOLhyphen"/>ſter <hi>Jones</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>xiii</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 9. to <hi>Eviſholme,</hi> Alderman <hi>Martins</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 10. to <hi>Inkeborow,</hi> the Vi<g ref="char:EOLhyphen"/>caridge—</cell>
+                        <cell>i</cell>
+                        <cell>vi</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 11. to <hi>Droitwicth</hi> Maſter <hi>Barrets</hi>—</cell>
+                        <cell>iii</cell>
+                        <cell>ix</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 14. to <hi>Cofton-hall,</hi> Mrs. <hi>Skinners, Hawkeſley-houſe</hi> taken by <hi>P.M.</hi> in our march a Garriſon—</cell>
+                        <cell>i</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 15. to <hi>Hemly</hi> near <hi>Wol<g ref="char:EOLhyphen"/>verhampton,</hi> Mr. <hi>Wars</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 16. to <hi>Biſhberry</hi> near <hi>Stur<g ref="char:EOLhyphen"/>bridge,</hi> Mr. <hi>Groſvenors</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>vi</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 17. to <hi>Chetwin</hi> near <hi>New<g ref="char:EOLhyphen"/>port,</hi> Mr. <hi>Pigots</hi>—</cell>
+                        <cell>iii</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 20. to <hi>Beaton</hi> near <hi>Dray<g ref="char:EOLhyphen"/>ton,</hi> Mr. <hi>Churches</hi>—</cell>
+                        <cell>ii</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <pb n="18" facs="tcp:97454:12"/>
+                     <row>
+                        <cell>Thurſday the 22. to <hi>Park-hall</hi> near <hi>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>tone,</hi> Mr. <hi>Cromptons</hi>—</cell>
+                        <cell>ii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 24. to <hi>Eaton</hi> ith <hi>Clay,</hi> Sir <hi>Tho. Millwares</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 26. to <hi>Tutbury</hi> dinner, Lord <hi>Loughborow</hi>—</cell>
+                        <cell>ii</cell>
+                        <cell>vi</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 27. to <hi>Aſhby de la zouch E.</hi> of <hi>Huntingdons</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>ix</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 28. to <hi>Coats</hi> near <hi>Lough<g ref="char:EOLhyphen"/>borow,</hi> Sir <hi>H. Skipwiths</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>ix</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 29. Remarched to <hi>El<g ref="char:EOLhyphen"/>ſtone</hi> near <hi>Leiceſter,</hi> which we faced with Souldiers, the R. defaced with fire—</cell>
+                        <cell>ii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the laſt, to <hi>Leiceſter,</hi> which was taken by his Majeſty at 2 <hi>mane</hi> ſouldiers rewarded with the plunder, the ſlane equal on both ſides, the Counteſs of <hi>Devonſhire</hi> we demo<g ref="char:EOLhyphen"/>liſhed with fire—</cell>
+                        <cell>iv</cell>
+                        <cell>iii</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>June</hi> 1645.</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 4. to <hi>Wiſtow,</hi> Sir <hi>Richard Halfords</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>v</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 5. to <hi>Lubenham</hi> near <hi>Har<g ref="char:EOLhyphen"/>borow,</hi> Mr. <hi>Collins</hi>—</cell>
+                        <cell>ii</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 7. to <hi>Daventree</hi> the <hi>Wheat ſheaf</hi> from whence <hi>Oxford</hi> was re<g ref="char:EOLhyphen"/>lieved from a ſiege, and victualled—</cell>
+                        <cell>vi</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <pb n="19" facs="tcp:97454:12"/>
+                     <row>
+                        <cell>Friday the 13. Remarched again to <hi>Lubnam,</hi> Mr. <hi>Collins</hi>—</cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 14. An alarum afrighted the King and Army from <hi>Lubnam</hi> at 2 a clock in the morning to <hi>Har<g ref="char:EOLhyphen"/>borow</hi> the Generals quarter, thence about 7 towards <hi>Naſeby,</hi> where the Parliaments Army quartered, raſhly fought with them, were utterly de<g ref="char:EOLhyphen"/>feated through the cowardize of the horſe, which fled to the walls of <hi>Lei<g ref="char:EOLhyphen"/>ceſter</hi> 16. miles, never faced nor ral<g ref="char:EOLhyphen"/>lied till there, whereby many of the horſe, all the foot were either ſlain or taken priſoners, with ſome of his Majeſties ſervants, all the Ordi<g ref="char:EOLhyphen"/>nance, Amunition, the Kings ſtuffe, Houſhold-carriages, and all the Bag<g ref="char:EOLhyphen"/>gage of the Army were totally loſt, the Parliament having the cleareſt victory given them from the begin<g ref="char:EOLhyphen"/>ing; the King himſelf in perſon be<g ref="char:EOLhyphen"/>ing neceſſitated, with his own troop only to charge through their body for his eſcape; from <hi>
+                              <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eiceſter</hi> we marched to <hi>Aſhby de la zouch</hi> in the night, and came thither about break of day, and halted there—</cell>
+                        <cell>i</cell>
+                        <cell>xxviij</cell>
+                     </row>
+                     <pb n="20" facs="tcp:97454:13"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 15 to <hi>Lichfield,</hi> the Go<g ref="char:EOLhyphen"/>vernours in the cloſe</cell>
+                        <cell>i</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 16 to <hi>VVolverhampton,</hi> Mrs. <hi>Barnfords</hi> a Widow</cell>
+                        <cell>i</cell>
+                        <cell>xij</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 17 to <hi>Bewdley</hi> the <hi>An<g ref="char:EOLhyphen"/>gel</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>xiii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 19 to <hi>Bramyard</hi> dinner, to <hi>Harriford</hi> ſupper</cell>
+                        <cell>xii</cell>
+                        <cell>xxiv</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>July</hi> 1645.</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the firſt, to <hi>Campſon</hi> dinner Mr. <hi>Pritchards,</hi> to <hi>Abergeveny</hi> ſup<g ref="char:EOLhyphen"/>per, Mr. <hi>Guncers.</hi>
+                        </cell>
+                        <cell>iii</cell>
+                        <cell>xv</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 3 to <hi>Ragland</hi> ſupper, Marquis of <hi>Worceſter</hi>
+                        </cell>
+                        <cell>xii</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 16 to <hi>Tredeger</hi> din<g ref="char:EOLhyphen"/>ner, <hi>Cardiffe</hi> ſupper Sir <hi>T. Tirrels</hi> defraid at the Countreyes charge</cell>
+                        <cell>i</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 17 to <hi>Tredegar,</hi> Sir <hi>VVilliam Morgans</hi> to bed</cell>
+                        <cell>i</cell>
+                        <cell>viii</cell>
+                     </row>
+                     <pb n="21" facs="tcp:97454:13"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights.</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 18 to <hi>Ragland</hi> dinner, <hi>&amp;c.</hi> On Tueſday the 22 to Mr. <hi>Moores</hi> of the Creek near Black-rock, and came back to <hi>Ragland,</hi> ſupper but came in ſo late as made us doubtful of his majeſties return; the <hi>Scots</hi> ap<g ref="char:EOLhyphen"/>proach, and our own cauſeleſs appre<g ref="char:EOLhyphen"/>henſion of fear, made us both demur and doubt, on the firſt what to re<g ref="char:EOLhyphen"/>ſolve, and in the latter how to ſteer our reſolutions, which involved us in a moſt diſaſterous condition, <hi>&amp;c.</hi>
+                        </cell>
+                        <cell>vi</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 24. From <hi>Ragland</hi> to Mr. <hi>Mores</hi> of the Creek to paſs over at the black-rock for <hi>Briſtoll,</hi> but his Majeſtie ſitting in councel, and ad<g ref="char:EOLhyphen"/>viſing to the contrary, marched only with his own ſervants and troop, that night to <hi>Newport</hi> on <hi>Uske</hi> lay at Miſtris <hi>Pritties</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxi</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Yet his <hi>Majeſties</hi> March in <hi>July,</hi> 1645.</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 25 to <hi>Rupperra,</hi> Sir <hi>Philip Morgans</hi>
+                        </cell>
+                        <cell>iv</cell>
+                        <cell>v</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 29 to <hi>Cardiffe</hi> dinner, the Governours at our own charge</cell>
+                        <cell>vii</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <pb n="22" facs="tcp:97454:14"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>Auguſt</hi> 1645.</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 5 to <hi>Glancayah</hi> Mr. <hi>Prit<g ref="char:EOLhyphen"/>chers</hi> dinner, at <hi>Brecknock</hi> the Gover<g ref="char:EOLhyphen"/>nour, ſupper</cell>
+                        <cell>i</cell>
+                        <cell>xxix</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 6 to <hi>Gurnevit</hi> Sir <hi>Hen<g ref="char:EOLhyphen"/>ry Williams,</hi> dinner to old <hi>Radnor</hi> ſupper a yeomans houſe, the Court diſperſed</cell>
+                        <cell>i</cell>
+                        <cell>xviii</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 7 to <hi>Ludlow</hi> Caſtle no dinner, Col. <hi>Woodhouſe</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the great faſt the 8 to <hi>Bridge<g ref="char:EOLhyphen"/>north,</hi> Sir <hi>Lewis Kirkes</hi> the Gover<g ref="char:EOLhyphen"/>nours</cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 10 dinner near <hi>Wolverhamp<g ref="char:EOLhyphen"/>ton in campis,</hi> at <hi>Lichfield</hi> ſupper the Governours in the cloſe</cell>
+                        <cell>ii</cell>
+                        <cell>xxii</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the 12. to <hi>Tutbury</hi> caſtle <hi>pr. in camp.</hi> and lying at the Lord <hi>Lough<g ref="char:EOLhyphen"/>brows</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 13 <hi>Aſhborn</hi> i'th Peake, Mrs <hi>Cakaines</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 14 to <hi>Chattisford</hi> near <hi>Bakewell,</hi> E. of <hi>Devonſhires</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 15 to <hi>Welbeck</hi> Marqueſs of <hi>Newcaſtles</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 17 to <hi>Edlington</hi> Maſter <hi>Boſviles</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xi</cell>
+                     </row>
+                     <pb n="23" facs="tcp:97454:14"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights,</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 18 day, to <hi>Doncaſter</hi> the three Cranes</cell>
+                        <cell>ii</cell>
+                        <cell>iii</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 20 to <hi>Redford,</hi> maſter <hi>Lane</hi> a Lawyer</cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 21 to <hi>Newark</hi> the Lord <hi>Danecourtes</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 22 to <hi>Belvoyre</hi> the E. of <hi>Rut<g ref="char:EOLhyphen"/>lands</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 23 to <hi>Stanford</hi> the <hi>George</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 24 to <hi>Huntington</hi> the <hi>George</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xvi</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 26 to <hi>Woborn</hi> the E. of <hi>Bedfords</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell>xxi</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 27 to <hi>Aſcot</hi> near <hi>Winge</hi> E. <hi>Carnarvous</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 28 to <hi>Oxford</hi> at <hi>Chriſt<g ref="char:EOLhyphen"/>Church</hi> and there</cell>
+                        <cell>ii</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>A ſecond Liſt of his Majeſties Marches from</hi> Oxford <hi>on Saturday the</hi> 30 <hi>of</hi> Auguſt, 1645.</cell>
+                     </row>
+                     <row>
+                        <cell>SAturday the 30 to <hi>Morton Hin</hi> the March <hi>white Hart</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxiv</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the laſt, no dinner, ſupper at <hi>Worceſter,</hi> a cruel day</cell>
+                        <cell>iii</cell>
+                        <cell>xxiv</cell>
+                     </row>
+                     <pb n="24" facs="tcp:97454:15"/>
+                     <row>
+                        <cell cols="3">
+                           <hi>September</hi> 1645.</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 3 to <hi>Bramyard,</hi> Miſtris <hi>Baynhams</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 4 to <hi>Hereford</hi> dinner Bi<g ref="char:EOLhyphen"/>ſhops Pallace</cell>
+                        <cell>i</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 5 to <hi>Lempſter</hi> dinner at the <hi>Unicorn,</hi> to <hi>Webley</hi> ſupper the <hi>Unicorn</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 6 to <hi>Hereford</hi> dinner Bi<g ref="char:EOLhyphen"/>ſhops Pallace</cell>
+                        <cell>i</cell>
+                        <cell>vii</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 7 to <hi>Ragland</hi> caſtle ſupper, 17. Monday, the 8 to <hi>Abergain</hi> dinner, <hi>Ragland</hi> ſupper, 14. Thurſday the 11 to <hi>Ragland</hi> ſupper, <hi>Abergeveny</hi> din<g ref="char:EOLhyphen"/>ner 14</cell>
+                        <cell>vii</cell>
+                        <cell>xlv</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 14 to <hi>Monmouth</hi> dinner the Governours, to <hi>Hereford</hi> ſup<g ref="char:EOLhyphen"/>per, monday the 15 we marched half way to <hi>Bramyard,</hi> but there was <hi>Leo in itinere,</hi> and ſo back to <hi>Hereford</hi> again</cell>
+                        <cell>iii</cell>
+                        <cell>x</cell>
+                     </row>
+                     <row>
+                        <cell>Wedneſday the 18. the <hi>Randezvous</hi> was at <hi>Athurſtone</hi> there dined, 10 miles, to <hi>Hamlacy</hi> ſupper, Lord <hi>Scu<g ref="char:EOLhyphen"/>dainores</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxvi</cell>
+                     </row>
+                     <pb n="25" facs="tcp:97454:15"/>
+                     <row>
+                        <cell>Thurſday the 18 to a <hi>Randezvouz</hi> 5 miles from <hi>Hamlacy,</hi> with intention for <hi>Worceſter, Poins</hi> and <hi>Roſceſter</hi> in the paſſage, whereupon we remarch<g ref="char:EOLhyphen"/>ed towards <hi>Hereford,</hi> ſo to <hi>Lempſter,</hi> then to <hi>VVebley,</hi> thence to <hi>Preſtine,</hi> there halted at maſter <hi>Andrewes;</hi> this march laſted from 6 in the morning, till midnight, <hi>&amp;c.</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxviii</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 19 to <hi>Newtown</hi> Mr. <hi>Price,</hi> a long march over the mountains</cell>
+                        <cell>ii</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 21 to <hi>Llanvillin</hi> ſupper, dinner Mr. <hi>Prices</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 22 to <hi>Chirke</hi> caſtle, ſir <hi>Jo. VVats</hi> the governours</cell>
+                        <cell>i</cell>
+                        <cell>xiv</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday 23 to <hi>Llangollen</hi> 4. to <hi>Wrix<g ref="char:EOLhyphen"/>ham</hi> 8 to <hi>Cheſter;</hi> a great fight be<g ref="char:EOLhyphen"/>tween <hi>Cheſter</hi> and <hi>Tarvin,</hi> the King Victor, but made no uſe of it, leaving <hi>Cheſter</hi> unreleaved. This was per<g ref="char:EOLhyphen"/>formed by the ſame horſe that fled at <hi>Naſeby</hi> on <hi>Rowton</hi> Heath againſt Coll. <hi>Poyntz,</hi> and the Army under his command</cell>
+                        <cell>ii</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 25. dinner at <hi>Cheſter,</hi> march'd to <hi>Hawarden</hi> Caſtle, ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ted there thence, to <hi>Northop,</hi> to <hi>Skiviock,</hi> to <hi>Potvary,</hi> to <hi>Denbigh, Will. Salſh.</hi> of <hi>Bohumbed</hi> Governor</cell>
+                        <cell>iii</cell>
+                        <cell>xx</cell>
+                     </row>
+                     <pb n="26" facs="tcp:97454:16"/>
+                     <row>
+                        <cell>Sonday the 28 dinner at <hi>Denbigh,</hi> ſup<g ref="char:EOLhyphen"/>per late at <hi>Chirke</hi> caſtle</cell>
+                        <cell>i</cell>
+                        <cell>xviii</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 29 dinner at <hi>Chirk</hi> caſtle, ſupper at <hi>Halton</hi> in <hi>Mongomery-ſhire</hi> Maſter <hi>Lloyds</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xxvi</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the laſt, <hi>prand. in camp.</hi> ſupper at <hi>Bridgnorth</hi> the Governors</cell>
+                        <cell>ii</cell>
+                        <cell>xxx</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">
+                           <hi>October</hi> 1645.</cell>
+                     </row>
+                     <row>
+                        <cell>Thurſday the 2 dinner at <hi>Ridgheath,</hi> the <hi>Randezvouz,</hi> ſupper at <hi>Lich<g ref="char:EOLhyphen"/>field</hi> the Cloſe</cell>
+                        <cell>i</cell>
+                        <cell>xxii</cell>
+                     </row>
+                     <row>
+                        <cell>Friday the 3 no dinner, at <hi>Tongue</hi> ſup<g ref="char:EOLhyphen"/>per Mr. <hi>Suttons</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xv</cell>
+                     </row>
+                     <row>
+                        <cell>Saturday the 4 no dinner, at <hi>Newarke</hi> ſupper Lord <hi>Danecourts</hi>
+                        </cell>
+                        <cell>ix</cell>
+                        <cell>xxvi</cell>
+                     </row>
+                     <row>
+                        <cell>Sonday the 12 to <hi>Tuxfords</hi> the <hi>white Hart</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 13 dinner in the field, at <hi>Welbeck</hi> ſupper Marquiſs <hi>Newcaſtle</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>Tueſday the xiv. no dinner at <hi>Newarke,</hi> ſupper Lord <hi>Danecourts</hi>
+                        </cell>
+                        <cell>xviii</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <pb n="27" facs="tcp:97454:16"/>
+                     <row>
+                        <cell cols="3">
+                           <hi>November</hi> 1645.</cell>
+                     </row>
+                     <row>
+                        <cell>Monday the 3 day of <hi>November, Anno Dom.</hi> 1645. His Majeſtie about a 11 a clock at night, went out of <hi>Newark,</hi> marched all that night, all the next day being Tueſday at 12 a clock that night, halted at <hi>Codsbury,</hi> Wedneſ<g ref="char:EOLhyphen"/>day about 10 a clock in the morn<g ref="char:EOLhyphen"/>ing came to <hi>Banbury,</hi> made an halt and dined there at the caſtle, and afterward the ſame Wedneſday the 5 of <hi>November</hi> about 5 a clock in the Evening came to <hi>Oxford</hi> to ſupper, and continued there during plea<g ref="char:EOLhyphen"/>ſure</cell>
+                        <cell>iv</cell>
+                        <cell>xc</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>His Majeſtie went from <hi>Oxford</hi> the 27 of <hi>April</hi> 1646. towards <hi>Newark</hi> to the <hi>Scottiſh</hi> Leaguer there, but in regard of the privateneſs of his going away, <hi>Oxford</hi> being at that time beleagured by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> his Army, and the fewneſs of his atten<g ref="char:EOLhyphen"/>dants, being at the moſt but two, we have no cer<g ref="char:EOLhyphen"/>taintie where he ſtayed by the way, but ſhortly af<g ref="char:EOLhyphen"/>ter he appeared in the <hi>Scots</hi> Army, who pretended to protect him from his <hi>Engliſh</hi> Rebbels and for the better ſecuring his Majeſties Perſon from dan<g ref="char:EOLhyphen"/>ger
+<pb n="28" facs="tcp:97454:17"/>as was pretended they ſtayed not long after at <hi>Newarke,</hi> but by eaſie marches removed with his Majeſties Perſon from <hi>Newarke</hi> to <hi>Newcaſtle,</hi> where the ſolemne Argument between his ſaid Majeſtie and Maſter <hi>Henderſon</hi> happened con<g ref="char:EOLhyphen"/>cerning Epiſcopaſie, and Church Government, to his Majeſties everlaſting Honour. But ſuch was the horrid perfidy of thoſe Treacherous <hi>Scots,</hi> that in ſtead of the expected ſafetie of his Maje<g ref="char:EOLhyphen"/>ſties Perſon, <hi>Judas</hi> like for money, (though a far greater ſumme) ſold and delivered their So<g ref="char:EOLhyphen"/>veraign LORD and KING, into the hands of his <hi>Engliſh</hi> Rebels, who by this means had under God a power to reſettle the Kingdomes Peace: But they were blinded to their own de<g ref="char:EOLhyphen"/>ſtruction; and having taken the Lords Annointed in their pits, they now uſed him as they liſted, carried him whither they pleaſed, and indeed treated him no otherwiſe then as their Priſoner, for with a ſtrong Guard of Horſe and Foot in the moneth of <hi>February</hi> 1646. the depth of Winter, they begin to remove him from <hi>New<g ref="char:EOLhyphen"/>caſtle</hi> in manner following:</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:97454:17"/>
+               <head>
+                  <hi>His</hi> Majeſties <hi>Geſts from</hi> New<g ref="char:EOLhyphen"/>caſtle <hi>to</hi> Holdenby <hi>in</hi> Februarie 1646.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>Nights.</cell>
+                        <cell>Miles.</cell>
+                     </row>
+                     <row>
+                        <cell>3 DAy from <hi>Newcaſtle</hi> to <hi>Durham</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>4 From thence, to <hi>Auke<g ref="char:EOLhyphen"/>land</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>5 From thence, to <hi>Rich<g ref="char:EOLhyphen"/>mond</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>6 From thence, to <hi>Rip<g ref="char:EOLhyphen"/>pon</hi>
+                        </cell>
+                        <cell>ii</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>8 From thence, to <hi>VVake<g ref="char:EOLhyphen"/>field</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>9 From thence, to <hi>Rothe<g ref="char:EOLhyphen"/>ram</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10 From thence, to <hi>Manſ<g ref="char:EOLhyphen"/>field</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11 From thence, to <hi>Notting<g ref="char:EOLhyphen"/>ham</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xii</cell>
+                     </row>
+                     <row>
+                        <cell>12 From thence, to <hi>Lei<g ref="char:EOLhyphen"/>ceſter</hi>
+                        </cell>
+                        <cell>i</cell>
+                        <cell>xvi</cell>
+                     </row>
+                     <row>
+                        <cell>13 From thence, to <hi>Hol<g ref="char:EOLhyphen"/>denby</hi>
+                        </cell>
+                        <cell>dur.</cell>
+                        <cell>plea.</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="30" facs="tcp:97454:18"/>
+               <p>Long had not his Sacred Majeſtie continued there, but he was by a part of the Army under one <hi>Joyce,</hi> violently taken from thence, and brought to his Honor of <hi>Hampton Court;</hi> where for a while he ſeemed to begin to reaſſunie his Priſtine Maje<g ref="char:EOLhyphen"/>ſty, being admitted to ſee and to be ſeen; but <hi>Cromwell</hi> fearing the frequencie of ſo great reſort might ſpoil his Trayterous deſigns with much Ser<g ref="char:EOLhyphen"/>pentine craft and devilliſh ſubtiltie, perſwaded and inſinuated into his Majeſties heart doubts and ſu<g ref="char:EOLhyphen"/>ſpitions of miſchief intended againſt him; the onely way for preventing whereof, he affirmed to be the withdrawing his Perſon from thence, to a place of more ſtrength and ſecurity, and to that purpoſe nominated the <hi>Iſle</hi> of <hi>VVight,</hi> to which place his Majeſty led by the Innocency of his ſpot<g ref="char:EOLhyphen"/>leſſe Conſcience, was decoyed, and at his arrival found himſelf over-reached; for he was immedi<g ref="char:EOLhyphen"/>ately ſecured by Collonel <hi>Hammond,</hi> who then was Governor in the ſaid <hi>Iſland,</hi> and kept a long time a priſoner there in the Caſtle of <hi>Carisbrook;</hi> untill afterwards, upon the Petitions of moſt Counties of <hi>England,</hi> a perſonal Treatie was appointed to be held in the ſaid <hi>Iſle</hi> at <hi>Newport,</hi> for which end Com<g ref="char:EOLhyphen"/>miſſioners were ſent thither with Inſtructions, and the Treatie begun, and proſecuted with ſo good effect, that his Majeſties Conceſſions at that time were voted by the Parliament a ſufficient ground to proceed on for the ſettlement of the Peace of of the Kingdome. But here again, his Majeſtie
+<pb n="31" facs="tcp:97454:18"/>is violently and trayterouſly ſeized by the Army then under <hi>Fairfax</hi> his command; by whom <hi>De<g ref="char:EOLhyphen"/>cember</hi> the firſt, 1648. He was brought to <hi>Hurſt</hi> Caſtle in <hi>Hampſhire,</hi> and there kept as a priſoner, till the 21. of the ſame moneth, when he was brought to <hi>VVincheſter,</hi> thence the 23. to <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> where for little time he ſtayed, attended by ſtrong Guards of ſouldiers, till about the 9. of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> following; when they removed him towards <hi>London,</hi> and brought him to his own Houſe at Saint <hi>James</hi>'s, and conſequently to perfidious <hi>London,</hi> (Oh infortunate Monarch!) where not long af<g ref="char:EOLhyphen"/>ter with helliſh effrontery even in deſpight of Hea<g ref="char:EOLhyphen"/>ven, at noon Day before His own Houſe <hi>VVhitehall,</hi> in the open ſtreet with armed multitudes of ſouldi<g ref="char:EOLhyphen"/>ers, they Sacrilegiouſly murthered that Bleſſed though unfortunate Prince) CHARLES the Firſt;</p>
+               <list>
+                  <head>There being actually guilty of that horrid murther, by giving Sentence, and ſigning the Warrant for his beheading.</head>
+                  <item>
+                     <hi>John Bradſhaw,</hi> Preſident.</item>
+                  <item>
+                     <hi>John Liſle,</hi>
+                  </item>
+                  <item>
+                     <hi>William Say,</hi>
+                  </item>
+                  <item>
+                     <hi>Oliver Cromwel,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Ireton,</hi>
+                  </item>
+                  <item>Sir <hi>Hardreſſe Waller,</hi>
+                  </item>
+                  <item>
+                     <hi>Valentine Walton,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Harriſon,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Whaley,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Pride,</hi>
+                  </item>
+                  <item>
+                     <hi>Iſaac Ewers,</hi>
+                  </item>
+                  <item>Lord <hi>Gray</hi> of Groby,</item>
+                  <item>Sir <hi>John Danvers</hi> Knight,</item>
+                  <item>Sir <hi>Thomas Maleverer</hi> Bar.</item>
+                  <item>Sir <hi>John Bourchier</hi> Knight.</item>
+                  <item>
+                     <hi>William Heveningham,</hi>
+                  </item>
+                  <item>Alderman <hi>Pennington,</hi>
+                  </item>
+                  <item>
+                     <hi>William Purefoy,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Martin,</hi>
+                  </item>
+                  <item>
+                     <hi>John Barkſtead,</hi>
+                  </item>
+                  <item>
+                     <hi>John Blackiſton,</hi>
+                  </item>
+                  <item>
+                     <hi>Gilbert Millington,</hi>
+                  </item>
+                  <pb n="32" facs="tcp:97454:19"/>
+                  <item>Sir <hi>William Conſtable</hi> Bar.</item>
+                  <item>
+                     <hi>Edmond Ludlow,</hi>
+                  </item>
+                  <item>
+                     <hi>John Hutchinſon,</hi>
+                  </item>
+                  <item>Sir <hi>Mich. Liveſey</hi> Bar.</item>
+                  <item>
+                     <hi>Robert Titchbourne,</hi>
+                  </item>
+                  <item>
+                     <hi>Owen Roe,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Lilburn,</hi>
+                  </item>
+                  <item>
+                     <hi>Adrian Scroop,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Deane,</hi>
+                  </item>
+                  <item>
+                     <hi>John Okey,</hi>
+                  </item>
+                  <item>
+                     <hi>John Hewſon,</hi>
+                  </item>
+                  <item>
+                     <hi>William Goffe,</hi>
+                  </item>
+                  <item>
+                     <hi>Cornelius Holland,</hi>
+                  </item>
+                  <item>
+                     <hi>John Carey,</hi>
+                  </item>
+                  <item>
+                     <hi>John Jones,</hi>
+                  </item>
+                  <item>
+                     <hi>Miles Corbet,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Allin,</hi>
+                  </item>
+                  <item>
+                     <hi>Peregrine Pelham,</hi>
+                  </item>
+                  <item>
+                     <hi>John Moore,</hi>
+                  </item>
+                  <item>
+                     <hi>John Aldred,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Smith,</hi>
+                  </item>
+                  <item>
+                     <hi>Humphrey Edwards,</hi>
+                  </item>
+                  <item>
+                     <hi>Gregory Clement,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Woogan,</hi>
+                  </item>
+                  <item>Sir <hi>Gregory Norton</hi> Knight.</item>
+                  <item>
+                     <hi>Edmond Harvy,</hi>
+                  </item>
+                  <item>
+                     <hi>John Venn,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Scot,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Andrews</hi> Alderman,</item>
+                  <item>
+                     <hi>William Cawly,</hi>
+                  </item>
+                  <item>
+                     <hi>Anthony Stapley,</hi>
+                  </item>
+                  <item>
+                     <hi>John Downes,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Horton</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Hammond,</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas Love,</hi>
+                  </item>
+                  <item>
+                     <hi>Vincent Votter,</hi>
+                  </item>
+                  <item>
+                     <hi>Auguſtine Garland,</hi>
+                  </item>
+                  <item>
+                     <hi>John Dixwel.</hi>
+                  </item>
+                  <item>
+                     <hi>George Fleetwood,</hi>
+                  </item>
+                  <item>
+                     <hi>Symon Meyne,</hi>
+                  </item>
+                  <item>
+                     <hi>James Temple,</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Temple,</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Blagrave,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Waite.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Councellors Aſſiſtant to the Court, and to draw up the Charge againſt the King; Dr.</hi> Doriſlaus, <hi>Mr.</hi> Aske, <hi>Mr.</hi> Steel <hi>Attorney General, Mr.</hi> Cook <hi>Sollicitor General, Mr.</hi> Broughton, <hi>Mr.</hi> Phelps <hi>Clerks to the Court.</hi>
+               </p>
+               <p>Officers of the Court.</p>
+               <p>
+                  <hi>Sergeant</hi> Dandy <hi>Sergeant at Arms, Collonel</hi> Humphrey <hi>Sword-bearer.</hi>
+               </p>
+               <p>
+                  <hi>Meſſengers, Dore-keepers and Criers, were theſe,</hi> viz.</p>
+               <p>
+                  <hi>Mr.</hi> Walford, <hi>Mr.</hi> Radley, <hi>Mr.</hi> Pain, <hi>Mr.</hi> Powel, <hi>Mr.</hi> Hull, <hi>Mr.</hi> King.</p>
+               <p>
+                  <hi>Sir</hi> Hardreſs Waller, <hi>Coll.</hi> Harriſon <hi>Commiſsary Gene<g ref="char:EOLhyphen"/>nerall</hi> Ireton. <hi>Coll.</hi> Deane, <hi>and Coll.</hi> Okey, <hi>appointed the place to be the ſtreet before</hi> White-hall, <hi>and the time the</hi> 30. <hi>of</hi> January.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97454:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
